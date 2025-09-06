@@ -1,8 +1,10 @@
-# ayoa
+# AYOA Open Genius Tech Test
 
 Exercise AYOA interface using Cypress.
 
 The project now includes a Cucumber abstration / preprocessor to enable a BDD approach to the testing. For flexibility I've enabled the Javascript and Feature files to co-exist.
+
+Video Demonstration: https://youtu.be/F5oQhbhIZvs
 
 Example Feature file:
 
@@ -53,4 +55,3 @@ or for continunous integration mode
 npx cypress run
 ```
 
-Video: https://youtu.be/F5oQhbhIZvs
